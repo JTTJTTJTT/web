@@ -1,2 +1,6 @@
 login
-master分支修改
+<<<<<<< HEAD
+master分支修改master
+=======
+lg分支修改
+>>>>>>> lg
